@@ -1,7 +1,7 @@
 import React from "react";
 
-import classes from "./meals-grid.module.css";
 import MealItem from "./meal-item";
+import classes from "./meals-grid.module.css";
 
 const MealsGrid = ({ meals }) => {
   return (

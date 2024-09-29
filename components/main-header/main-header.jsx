@@ -1,14 +1,12 @@
 import React from "react";
 
-import Link from "next/link";
 import Image from "next/image";
+import Link from "next/link";
 
 import MainHeaderbackground from "./main-header-background";
-
 import classes from "./main-header.module.css";
-
-import logoImg from "@/assets/logo.png";
 import NavLink from "./nav-link";
+import logoImg from "@/assets/logo.png";
 
 const MainHeader = () => {
   return (
